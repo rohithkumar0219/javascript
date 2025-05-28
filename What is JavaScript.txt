@@ -1,0 +1,9 @@
+What is JavaScript?
+
+JavaScript is a high-level, interpreted, multi-paradigm programming language.
+
+It runs mainly in the browser but also on servers (Node.js).
+
+It's dynamic (types can change), event-driven, and supports object-oriented, functional, and imperative styles.
+
+Often paired with HTML + CSS to build web apps.

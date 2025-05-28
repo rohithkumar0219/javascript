@@ -1,0 +1,11 @@
+History of JavaScript (35)
+
+1995 Created by Brendan Elch at Netscape in just 10 days.
+
+Originally called Mocha, then LiveScript, finally renamed JavaScript (even though it's not related to Java).
+
+Designed to add Interactivity to web pages.
+
+Standardized under ECMAScript (first standard in 1997).
+
+Grew over time from small scripts ->full web apps ->backend (node.js) -> desktop & mobile apps.
